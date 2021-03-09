@@ -52,6 +52,28 @@ async def on_ready():
     print(f"[Sueth Support] Nick: {bot.user.name}")
     print(f"[Sueth Support] ID: {bot.user.id}\n")
 
+os.system("color 1")
+os.system("color 2")
+os.system("color 3")
+os.system("color 4")
+os.system("color 5")
+os.system("color 6")
+os.system("color 7")
+os.system("color 8")
+os.system("color 9")
+os.system("color 5")
+os.system("color 1")
+os.system("color 2")
+os.system("color 3")
+os.system("color 4")
+os.system("color 5")
+os.system("color 6")
+os.system("color 7")
+os.system("color 8")
+os.system("color 9")
+os.system("color 5")
+
+
 
 @bot.event
 async def on_message(message, limit: int=None):
